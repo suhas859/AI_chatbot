@@ -31,7 +31,7 @@ pdfplumber==0.11.4  # Alternative PDF loader
 # Web Tools
 requests==2.32.4
 requests-toolbelt==1.0.0
-duckduckgo-search==7.1.2  # For DuckDuckGoSearchRun
+duckduckgo-search  # For DuckDuckGoSearchRun
 wikipedia==1.4.0
 beautifulsoup4==4.12.3
 
